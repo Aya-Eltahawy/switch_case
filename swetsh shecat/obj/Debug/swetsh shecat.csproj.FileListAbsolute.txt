@@ -1,0 +1,6 @@
+c:\users\lap\documents\visual studio 2013\Projects\swetsh shecat\swetsh shecat\bin\Debug\swetsh shecat.exe.config
+C:\Users\lap\Documents\Visual Studio 2013\Projects\swetsh shecat\swetsh shecat\obj\Debug\swetsh shecat.csprojResolveAssemblyReference.cache
+C:\Users\lap\Documents\Visual Studio 2013\Projects\swetsh shecat\swetsh shecat\bin\Debug\swetsh shecat.exe
+C:\Users\lap\Documents\Visual Studio 2013\Projects\swetsh shecat\swetsh shecat\bin\Debug\swetsh shecat.pdb
+C:\Users\lap\Documents\Visual Studio 2013\Projects\swetsh shecat\swetsh shecat\obj\Debug\swetsh shecat.exe
+C:\Users\lap\Documents\Visual Studio 2013\Projects\swetsh shecat\swetsh shecat\obj\Debug\swetsh shecat.pdb
